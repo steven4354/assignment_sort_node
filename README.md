@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-##Insertion Sort
+## Insertion Sort
 
 ```
 let insert = (arr, rightIndex, value) => {
